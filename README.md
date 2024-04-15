@@ -22,8 +22,8 @@
 </p>
 
 ## Language and Tools:
-[<img src="https://github.com/PxOctopus/PxOctopus/assets/154042778/7126c2e7-628e-4413-ac82-5970551a4e05" width=15% height=15%>](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
-
+[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-1024.png" width=12% height=12%>](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-8-1175119.png?f=webp&w=512" width=12% height=12%>]([https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png](https://www.postgresql.org/docs/))
 
 
 <!---
