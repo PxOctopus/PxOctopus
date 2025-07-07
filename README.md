@@ -1,12 +1,11 @@
 ## 🪸 About Me
 
-<h2 align="center" style="font-size: 26px; font-style: italic; color: #7F2681;">
-  🌊 A lifelong learner swimming in the sea of knowledge
-</h2>
+### <p align="center" style="color: #7F2681;">🌊 *A lifelong learner swimming in the sea of knowledge*</p>
 
 <p align="center">
-  <img src="https://github.com/PxOctopus/PxOctopus/assets/154042778/4ec13956-538a-4386-a750-7e8f9578c781" width="200" alt="Pixel Octopus Avatar">
+  <img src="https://github.com/user-attachments/assets/e8ef5b1c-c845-442f-abc4-17c0e6dc445c" width="200" alt="Pixel Octopus Avatar">
 </p>
+
 
 <p align="center" style="color: #E861A4; font-size: 24px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java icon" />
