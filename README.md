@@ -14,12 +14,11 @@
 </p>
 
 <p align="center" style="color: #9E3EC2; font-size: 22px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python icon" />
-  <strong>Exploring bioinformatics</strong>
+  <strong>🧬 Exploring bioinformatics</strong>
 </p>
 
 
-## Language and Tools:
+## 🛠️ Language and Tools:
 <p align="center"> 
   <!-- Frontend --> 
   <a href="https://go-skill-icons.vercel.app/"> 
