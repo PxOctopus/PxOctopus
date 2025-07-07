@@ -3,14 +3,14 @@
 ### <p align="center" style="color: #7F2681;">🌊 *A lifelong learner swimming in the sea of knowledge*</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e8ef5b1c-c845-442f-abc4-17c0e6dc445c" width="200" alt="Pixel Octopus Avatar">
+  <img src="https://github.com/user-attachments/assets/e7849fa7-1ca4-4681-ab19-cca66f90d8b1" width="200" alt="Underwater Pixel Scene" loading="lazy" />
 </p>
-
 
 <p align="center" style="color: #E861A4; font-size: 24px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java icon" />
   <strong>Diving into Java</strong>
 </p>
+
 
 <p align="center" style="color: #9E3EC2; font-size: 22px;">
   <strong>🧬 Exploring bioinformatics</strong>
