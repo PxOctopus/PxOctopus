@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=500&color=F7DEE9&center=true&vCenter=true&multiline=true&random=false&width=1000&height=200&lines=Hi!;I'm+PxOctopus.;A+lifelong+learner+swimming+in+the+sea+of+knowledge.;Exploring+bioinformatics+and+diving+into+Java." alt="Typing SVG" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python icon" />
+  <strong>Exploring bioinformatics</strong>
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=PxOctopus&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api?username=PxOctopus&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=PxOctopus&show_icons=true" />
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java icon" />
+  <strong>Diving into Java</strong>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f30a.svg" height="24" alt="ocean emoji" />
+  <strong>A lifelong learner swimming in the sea of knowledge</strong>
 </p>
 
 
