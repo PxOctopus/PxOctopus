@@ -8,7 +8,7 @@
   <img src="https://github.com/PxOctopus/PxOctopus/assets/154042778/4ec13956-538a-4386-a750-7e8f9578c781" width="200" alt="Pixel Octopus Avatar">
 </p>
 
-<p align="center" style="color: #E861A4; font-size: 22px">
+<p align="center" style="font-size:22px; color: #E861A4;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java icon" />
   <strong>Diving into Java</strong>
 </p>
