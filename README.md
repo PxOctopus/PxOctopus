@@ -8,19 +8,14 @@
   <img src="https://github.com/PxOctopus/PxOctopus/assets/154042778/4ec13956-538a-4386-a750-7e8f9578c781" width="200" alt="Pixel Octopus Avatar">
 </p>
 
-<p align="center" style="color: #9E3EC2;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python icon" />
-  <strong>Exploring bioinformatics</strong>
-</p>
-
-<p align="center" style="color: #E861A4;">
+<p align="center" style="color: #E861A4; font-size: 22px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java icon" />
   <strong>Diving into Java</strong>
 </p>
 
-<p align="center" style="color: #1C2B4C;">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f30a.svg" height="24" alt="ocean emoji" />
-  <strong>A lifelong learner swimming in the sea of knowledge</strong>
+<p align="center" style="color: #9E3EC2;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python icon" />
+  <strong>Exploring bioinformatics</strong>
 </p>
 
 
